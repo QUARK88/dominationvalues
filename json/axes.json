@@ -55,7 +55,7 @@
 	},
 	{
 		"id": "A3",
-		"name": "Government",
+		"name": "State",
 		"weight": 1,
 		"weights": [10,15,20,10,20,15,10],
 		"left": {
@@ -136,7 +136,7 @@
 	},
 	{
 		"id": "A6",
-		"name": "Technology",
+		"name": "Science",
 		"weight": 0.6,
 		"weights": [10,15,20,10,20,15,10],
 		"left": {
