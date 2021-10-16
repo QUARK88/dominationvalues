@@ -17,13 +17,13 @@
 			"description": ""
 		},
 		"tiers": [
-			"Communist",
-			"Socialist",
-			"Collective",
+			"Corporatist",
+			"Regulated",
+			"Interventionist",
 			"Syncretic",
-			"Individual",
-			"Private",
-			"Propertarian"
+			"Market",
+			"Laissez-Faire",
+			"Darwinist"
 		]
 	},
 	{
@@ -44,13 +44,13 @@
 			"description": ""
 		},
 		"tiers": [
-			"Planned",
-			"Directed",
-			"Regulated",
-			"Intervening",
-			"Permissive",
-			"Free Market",
-			"Laissez-Faire"
+			"Everyman",
+			"Populist",
+			"Demagogue",
+			"Appealing",
+			"Aristocratic",
+			"Oligarchic",
+			"Autocratic"
 		]
 	},
 	{
@@ -65,19 +65,19 @@
 			"description": ""
 		},
 		"right": {
-			"name": "Totalitarianism",
+			"name": "Totalism",
 			"color": "#000000",
 			"icon": "value_images/value.svg",
 			"description": ""
 		},
 		"tiers": [
-			"Autocratic",
-			"Concentrated",
-			"Unified",
-			"Representative",
-			"Dispersed",
-			"Decentral",
-			"Anarchist"
+			"Liberal",
+			"Constitutional",
+			"Statist",
+			"Authoritarian",
+			"Statocrat",
+			"Totalitarian",
+			"Orwellian"
 		]
 	},
 	{
@@ -125,13 +125,13 @@
 			"description": ""
 		},
 		"tiers": [
-			"Intersectional",
-			"Inclusive",
-			"Respectful",
-			"Normative",
-			"Prejudicial",
-			"Discriminatory",
-			"Supremacist"
+			"Pacifist",
+			"Non-Aggressive",
+			"Limited",
+			"Neutral",
+			"Pro-Army",
+			"Militarist",
+			"Warmonger"
 		]
 	},
 	{
@@ -152,13 +152,13 @@
 			"description": ""
 		},
 		"tiers": [
-			"Antiquated",
-			"Traditional",
-			"Conservative",
-			"Conventional",
-			"Neoteric",
-			"Progressive",
-			"Futuristic"
+			"Primitivist",
+			"Decelerationist",
+			"Apprehensive",
+			"Research",
+			"Innovative",
+			"Accelerationist",
+			"Transhumanist"
 		]
 	},
 	{
@@ -173,19 +173,19 @@
 			"description": ""
 		},
 		"right": {
-			"name": "Fanatical Theist",
+			"name": "Radical Theist",
 			"color": "#000000",
 			"icon": "value_images/value.svg",
 			"description": ""
 		},
 		"tiers": [
-			"Antiquated",
-			"Traditional",
-			"Conservative",
-			"Conventional",
-			"Neoteric",
-			"Progressive",
-			"Futuristic"
+			"Anti-Theist",
+			"Atheist",
+			"Agnostic",
+			"Skeptic",
+			"Spiritual",
+			"Religious",
+			"Crusade"
 		]
 	}
 ]
