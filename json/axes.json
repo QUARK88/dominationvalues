@@ -6,13 +6,13 @@
 		"weights": [10,15,20,10,20,15,10],
 		"left": {
 			"name": "Intervention",
-			"color": "#ff0c57",
+			"color": "#000000",
 			"icon": "value_images/value.svg",
 			"description": ""
 		},
 		"right": {
 			"name": "Laissez-faire",
-			"color": "#1fe545",
+			"color": "#000000",
 			"icon": "value_images/value.svg",
 			"description": ""
 		},
@@ -33,13 +33,13 @@
 		"weights": [10,15,20,10,20,15,10],
 		"left": {
 			"name": "Populism",
-			"color": "#b900d3",
+			"color": "#000000",
 			"icon": "value_images/value.svg",
 			"description": ""
 		},
 		"right": {
 			"name": "Elitism",
-			"color": "#ffc100",
+			"color": "#000000",
 			"icon": "value_images/value.svg",
 			"description": ""
 		},
@@ -60,13 +60,13 @@
 		"weights": [10,15,20,10,20,15,10],
 		"left": {
 			"name": "Statism",
-			"color": "#0cd1a5",
+			"color": "#000000",
 			"icon": "value_images/value.svg",
 			"description": ""
 		},
 		"right": {
 			"name": "Totalitarianism",
-			"color": "#ff3a17",
+			"color": "#000000",
 			"icon": "value_images/value.svg",
 			"description": ""
 		},
@@ -87,13 +87,13 @@
 		"weights": [10,15,20,10,20,15,10],
 		"left": {
 			"name": "Inclusivity",
-			"color": "#ffff00",
+			"color": "#000000",
 			"icon": "value_images/value.svg",
 			"description": ""
 		},
 		"right": {
 			"name": "Supremacy",
-			"color": "#2876ff",
+			"color": "#000000",
 			"icon": "value_images/value.svg",
 			"description": ""
 		},
@@ -114,13 +114,13 @@
 		"weights": [10,15,20,10,20,15,10],
 		"left": {
 			"name": "Military",
-			"color": "#ff15a8",
+			"color": "#000000",
 			"icon": "value_images/value.svg",
 			"description": ""
 		},
 		"right": {
 			"name": "Peace",
-			"color": "#ff7b09",
+			"color": "#000000",
 			"icon": "value_images/value.svg",
 			"description": ""
 		},
@@ -141,13 +141,13 @@
 		"weights": [10,15,20,10,20,15,10],
 		"left": {
 			"name": "Antique",
-			"color": "#9bf122",
+			"color": "#000000",
 			"icon": "value_images/value.svg",
 			"description": ""
 		},
 		"right": {
 			"name": "Accelerated",
-			"color": "#894efa",
+			"color": "#000000",
 			"icon": "value_images/value.svg",
 			"description": ""
 		},
@@ -168,13 +168,13 @@
 		"weights": [10,15,20,10,20,15,10],
 		"left": {
 			"name": "Anti-Theist",
-			"color": "#9bf122",
+			"color": "#000000",
 			"icon": "value_images/value.svg",
 			"description": ""
 		},
 		"right": {
 			"name": "Fanatical Theist",
-			"color": "#894efa",
+			"color": "#000000",
 			"icon": "value_images/value.svg",
 			"description": ""
 		},
